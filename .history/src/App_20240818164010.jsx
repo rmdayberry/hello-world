@@ -1,11 +1,10 @@
 import HelloWorld from "./HelloWorld";
 
 function App() {
-  return (
-    <div>
-      <HelloWorld />;
-    </div>
-  );
+  return;
+  <>
+    <HelloWorld />
+  </>;
 }
 
 export default App;

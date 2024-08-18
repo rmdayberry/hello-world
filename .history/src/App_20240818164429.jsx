@@ -1,9 +1,9 @@
-import HelloWorld from "./HelloWorld";
+import HelloWorld from "./HelloWorld.jsx";
 
 function App() {
   return (
     <div>
-      <HelloWorld />;
+      <HelloWorld />
     </div>
   );
 }
